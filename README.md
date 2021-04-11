@@ -18,12 +18,16 @@ Further details about the raw data variables are found in CodeBook.md
 * run_analysis.R: 
 
   > The run_analysis script fulfills five main tasks that are summarized in greater detail in the code book.  To summarize, these five steps are: 
-  >  Step 1: <b>Collecting Data</b> (Merges the training and the test sets to create one data set) 
-  >  Step 2: <b>Naming Data</b> (Uses descriptive activity names to name the activities in the data set)  
-  >  Step 3: <b>Extract Data</b>(Extract only the measurements on the mean and standard deviation for each measurement).  
-  >  Step 4: <b>Cleaning Data</b> (Appropriately labels the data set with descriptive variable names) 
-  >  Step 5: <b>Tiding Data</b> (Create an independent tidy data set with the average of each variable for each activity and each subject.)
-  > 
+ 
+  > 1: <b>Collecting Data</b> (Merges the training and the test sets to create one data set) 
+    
+    > 2: <b>Naming Data</b> (Uses descriptive activity names to name the activities in the data set)  
+    
+    > 3: <b>Extract Data</b>(Extract only the measurements on the mean and standard deviation for each measurement).  
+    
+    > 4: <b>Cleaning Data</b> (Appropriately labels the data set with descriptive variable names) 
+    
+    > 5: <b>Tiding Data</b> (Create an independent tidy data set with the average of each variable for each activity and each subject.)
 
 * TidyData.txt:
 
