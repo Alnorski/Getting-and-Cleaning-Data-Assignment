@@ -2,7 +2,7 @@
 
 This read me file outlines the original dataset, and the three files (codebook.md, run_analysis.R, and TidyData.txt) found within the Getting-and-Cleaning-Data Repository. 
 
-## Scope of Original Dataset
+### Scope of Original Dataset
 
 The original dataset comes from the "Human Activity Recongition Using Smartphone Dataset Version 1.0".  To summarize the original dataset: Thirty subjects are to perform six different activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) while wearing the Samsung Galaxy S II on their wrist.  The phone's internal embedded accelerometer and gyroscope measures a range of raw data in the time domain.  The raw data measures magnitude, angular velocity, and linear acceleration.  Additionally the fourier transform was applied to transform the time-domain data into the frequency domain.
 
