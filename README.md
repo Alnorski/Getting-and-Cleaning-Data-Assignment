@@ -1,6 +1,6 @@
 ## Getting-and-Cleaning-Data-Assignment
 
-This read me file outlines the files within the Getting-and-Cleaning-Data Assignment. 
+This read me file outlines the original dataset, and the three files (codebook.md, run_analysis.R, and TidyData.txt) found within the Getting-and-Cleaning-Data Repository. 
 
 ## Scope of Original Dataset
 
